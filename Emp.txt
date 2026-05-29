@@ -1,1 +1,1 @@
-Emp Name:Alex, Salary: 65000, Dept:IT,Work place: Itvedant PVT.LTD 
+Emp Name:Amit, Salary: 75000, Dept:IT,Work place: Itvedant PVT.LTD 
